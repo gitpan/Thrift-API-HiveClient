@@ -1,0 +1,41 @@
+---
+abstract: 'A Hadoop Hive client using the Thrift API'
+author:
+  - 'Stephen R. Scaffidi <sscaffidi@cpan.org>'
+build_requires: {}
+configure_requires:
+  ExtUtils::MakeMaker: 6.30
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.300021, CPAN::Meta::Converter version 2.120921'
+license: apache
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Thrift-API-HiveClient
+requires:
+  Carp: 0
+  Class::Accessor: 0
+  Moo: 0
+  Thrift: 0
+  Thrift::API::HiveClient::Facebook::FB303::FacebookServiceClient: 0
+  Thrift::API::HiveClient::Facebook::FB303::FacebookServiceIf: 0
+  Thrift::API::HiveClient::Facebook::FB303::FacebookServiceProcessor: 0
+  Thrift::API::HiveClient::Facebook::FB303::FacebookServiceRest: 0
+  Thrift::API::HiveClient::Metastore::ThriftHiveMetastoreClient: 0
+  Thrift::API::HiveClient::Metastore::ThriftHiveMetastoreIf: 0
+  Thrift::API::HiveClient::Metastore::ThriftHiveMetastoreProcessor: 0
+  Thrift::API::HiveClient::Metastore::ThriftHiveMetastoreRest: 0
+  Thrift::API::HiveClient::Service::ThriftHiveIf: 0
+  Thrift::BinaryProtocol: 0
+  Thrift::BufferedTransport: 0
+  Thrift::Socket: 0
+  Thrift::TException: 0
+  base: 0
+  constant: 0
+  perl: v5.6.0
+  strict: 0
+  warnings: 0
+resources:
+  bugtracker: https://github.com/Hercynium/Thrift-API-HiveClient/issues
+  repository: git://github.com/Hercynium/Thrift-API-HiveClient.git
+version: 0.001

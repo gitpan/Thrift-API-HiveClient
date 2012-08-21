@@ -1,0 +1,21 @@
+Changelog for Thrift-API-HiveClient
+
+0.001 2012-08-21T18:05:21
+ [Stephen R. Scaffidi <sscaffidi@gmail.com>]
+ - now with pod-weaver goodness
+
+ - more docs and little things
+
+ - more docs and little things
+
+ - more docs and little things
+
+ - added some documentation to HiveClient.pm,
+
+ - added gitignore, readme, improved perl-module generation
+
+ - added abstract
+
+ - initial commit
+
+
