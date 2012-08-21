@@ -15759,7 +15759,7 @@ Thrift::API::HiveClient::Metastore::ThriftHiveMetastore_create_database_args
 
 =head1 VERSION
 
-version 0.002
+version 0.003
 
 =head1 SEE ALSO
 
