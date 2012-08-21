@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Thrift::API::HiveClient;
 {
-  $Thrift::API::HiveClient::VERSION = '0.001';
+  $Thrift::API::HiveClient::VERSION = '0.002';
 }
 # ABSTRACT: A Hadoop Hive client using the Thrift API
 use Moo;
@@ -85,7 +85,7 @@ Thrift::API::HiveClient - A Hadoop Hive client using the Thrift API
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 DESCRIPTION
 

@@ -2437,7 +2437,7 @@ Thrift::API::HiveClient::Facebook::FB303::FacebookService_getName_args
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 SEE ALSO
 
